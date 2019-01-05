@@ -7,7 +7,11 @@ Clarify Data
 python3 main.py -dir /path/to/video/directoty [-optional args]
 ```
 Chú thích args:
+
   -dir: Đường dẫn tới folder chứa các video
-  -optional args:
-    - worker: số video xử lý cùng lúc
-    - outdir: folder chứa output
+  
+  Các optional args:
+  
+     -worker: số video xử lý cùng lúc
+    
+     - outdir: folder chứa output
